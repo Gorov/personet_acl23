@@ -12,7 +12,10 @@
 
 ## Data Format
 ### English Data
-`new_train_data.json`: training data consisting of train data and weakly sup data. 44434 items. 
+<img width="1052" alt="personet_data" src="https://github.com/Gorov/personet_acl23/assets/49872515/be618ba5-36ff-4bf3-b7a1-468c3482f5dc">
+
+### Chinese Data
+Only the URLs of Chinese books are provided due to license issues. In this way, the aligned sentence mapping between English books and Chinese books is provided so that you can get the Chinese data yourself. 
 
 ## Training Longformer and MultiRow BERT
 
