@@ -49,3 +49,8 @@ python generate_new.py \
     --lora_weights '(your own path)' \
     --eval_data_path 'full_test_data.json'
 ```
+
+## Final Words
+If you want to obtain longer history for an instance, it can be achieved by matching the given context to the original book texts from [PG19](https://huggingface.co/datasets/pg19) or the Gutenberg project directly. 
+
+For any questions, feel free to email us or create an issue and we will get back to you as soon as possible. Hope this repo is useful to your research. 
