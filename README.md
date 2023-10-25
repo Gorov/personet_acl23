@@ -11,6 +11,8 @@
 * part of the code is based on [alpaca-lora](https://github.com/tloen/alpaca-lora)
 
 ## Data Format
+### English Data
+`new_train_data.json`: training data consisting of train data and weakly sup data. 44434 items. 
 
 ## Training Longformer and MultiRow BERT
 
